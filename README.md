@@ -28,3 +28,4 @@ The dataset contains **8,807** titles with the following columns:
 - `description`: Brief summary of the content.
 
 ## Acknowledgement
+Dataset is from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
